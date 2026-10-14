@@ -1,6 +1,6 @@
 {
   "name": "mcp-image",
-  "version": "0.1.48",
+  "version": "0.1.49",
   "description": "MCP server for AI image generation and editing with automatic prompt optimization and quality presets. Supports Nano Banana (Gemini), OpenAI GPT Image, and BytePlus Seedream.",
   "main": "src/index.ts",
   "scripts": {
